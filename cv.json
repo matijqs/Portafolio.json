@@ -1,0 +1,290 @@
+{
+  "basics": {
+    "name": "Matías Quiñones Serrano",
+    "label": "Estudiante de Ingeniería en Computación e Informatica Especialidad: Desarrollo de Apps y Ciberseguridad",
+    "image": "/yo.webp",
+    "email": "matiijqs@gmail.com",
+    "phone": "+56949177943",
+    "url": "",
+    "summary": "Soy un entusiasta de la tecnología, me encuentro culminando mis estudios como Ingeniero Informático, adicional a esto me encuentro realizando cursos online para mantenerme al tanto de las novedades del mundo tecnológico.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Melipilla",
+      "countryCode": "CL",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "matijqs",
+        "url": "https://www.linkedin.com/in/matijqs"
+      },
+    
+      {
+        "network": "GitHub",
+        "username": "matijqs",
+        "url": "https://github.com/matijqs"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Imporepuestos Spa",
+      "position": "Encargado de Marketing y Ventas Online, Web Developer (WordPress) (Colaborador)",
+      "url": "https://imporepuestos.cl",
+      "startDate": "2022-11-04",
+      "endDate": "2023-04-01",
+      "summary": "Lider Marketing Digital para impulsar ventas por canal online, Colaborador desarrollo web, encargado de la actualización del sitio web creando mejoras para facilitar la experiencia de usuario.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Mujer Capacita (Instituto Iberoamericano)",
+      "position": "Encargado de Marketing Digital, Community Manager, Web Developer (WordPress)",
+      "url": "https://mujercapacita.cl/",
+      "startDate": "2020-01-04",
+      "endDate": "2021-12-30",
+      "summary": "Encargado de Marketing Digital y Administracion de Redes Sociales. Remodelación Web Completa, Creación de campañas ADS, Informes Analitica Web y Digital.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Importadora y Comercializadora Balcorp",
+      "url": "https://www.balcorp.cl",
+      "position": "Asesoria Marca Personal",
+      "startDate": "2019-03-01",
+      "endDate": "2020-05-01",
+      "summary": "Asesoramiento Integral para creación de marca personal, creacion de logotipo, tipografia, etc. Creación de sitio web autoadministrable en Jumpseller.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  
+  "education": [
+  {
+    "institution": "Universidad Gabriela Mistral",
+    "url": "https://advance.ugm.cl/carrera/ingenieria-en-computacion/",
+    "summary": "Conocimientos y destrezas profesionales, contemplan herramientas de programación, programación orientada al objeto, desarrollo de  aplicaciones empresariales, ingeniería de software, ingeniería web, complementando con el conocimientoy dominio de instrumentos para la gestión de procesos administrativos eficientes.",
+    "studyType": "Ingeniería en Computación e Informatica Mención Desarrollo de Aplicaciones Empresariales y Ciberseguridad",
+    "startDate": "2022-04-05",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "Oracle Academy",
+      "Microsoft Azure",
+      "Especialista en Programación y Seguridad Informática Certificación UGM"
+    ]
+  },
+
+  {
+    "institution": "Instituto Profesional AIEP",
+    "url": "https://www.aiep.cl/admision/carrera/tecnico-en-marketing-digital/",
+    "summary": "El Técnico en Marketing Digital de AIEP es un técnico de nivel superior con las capacidades idóneas para el desarrollo e implementación de estrategias de marketing y de posicionamiento de marca a nivel digital, atendiendo al proceso en forma integral en todas sus etapas. Es experto en el análisis e interpretación de métricas e indicadores de rendimiento.",
+    "studyType": "Técnico de Nivel Superior en Marketing Digital",
+    "startDate": "2022-04-05",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "Web Master HTML & CSS",
+      "Seo, Sem & Analitycs"
+   
+    ]
+  }
+
+
+],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Portafolio Json",
+      "isActive": true,
+      "description": "Portafolio Web Imprimible hecho en Astro con HTML y CSS",
+      "highlights": [
+        "Portafolio fork midudev",
+        "En Desarollo"
+      ],
+      "url": "https://mars.codes",
+      "github": "https://github.com/matijqs/MyWeb"
+    },
+    {
+      "name": "Motoimpacto Chile",
+      "isActive": true,
+      "description": "Web para Motoimpacto Chile en desarrolo, se realizo reciclando su anterior template de wordpress y se realizo un rediseño mediante codigo",
+      "highlights": [
+        "Frontend",
+        "Wordpress",
+        "En Desarollo"
+      ],
+      "url": "https://motoimpacto.cl"
+    },
+    {
+      "name": "Boutique Colombiano",
+      "isActive": true,
+      "description": "Proyecto Web One Page para cliente internacional",
+      "highlights": [
+        "USA",
+        "En Desarollo",
+        "JavaScript & CSS",
+        "Disponible Proximamente"
+      ],
+      "url": "https://boutiquecolombiano.us"
+    },
+    {
+      "name": "Mujer Capacita",
+      "isActive": false,
+      "description": "Sitio web creado para captar potenciales clientes,",
+      "highlights": [
+        "Mujeres emprendedoras",
+        "Wordpress"
+      ],
+      "url": "https://mujercapacita.cl"
+    
+    },
+    {
+      "name": "Bph Servicios",
+      "isActive": true,
+      "description": "Proyecto Web en Desarrollo, para startup Chilena",
+      "highlights": [
+        "Disponible Proximamente",
+        "React"
+      ],
+      "url": "https://bphservicios.cl"
+     
+    },
+
+    {
+      "name": "Imporepuestos Spa",
+      "isActive": false,
+      "description": "Web cotizaciones de repuestos",
+      "highlights": [
+        "Wordpress",
+        "JavaScript & CSS"
+      ],
+      "url": "https://imporepuestos.cl"
+     
+    }
+
+  ]
+}
