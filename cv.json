@@ -29,40 +29,41 @@
     ]
   },
   "work": [
-    {
-      "name": "Imporepuestos Spa",
-      "position": "Encargado de Marketing y Ventas Online, Web Developer (WordPress) (Colaborador)",
-      "url": "https://imporepuestos.cl",
-      "startDate": "2022-11-04",
-      "endDate": "2023-04-01",
-      "summary": "Lider Marketing Digital para impulsar ventas por canal online, Colaborador desarrollo web, encargado de la actualización del sitio web creando mejoras para facilitar la experiencia de usuario.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Mujer Capacita (Instituto Iberoamericano)",
-      "position": "Encargado de Marketing Digital, Community Manager, Web Developer (WordPress)",
-      "url": "https://mujercapacita.cl/",
-      "startDate": "2020-01-04",
-      "endDate": "2021-12-30",
-      "summary": "Encargado de Marketing Digital y Administracion de Redes Sociales. Remodelación Web Completa, Creación de campañas ADS, Informes Analitica Web y Digital.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Importadora y Comercializadora Balcorp",
-      "url": "https://www.balcorp.cl",
-      "position": "Asesoria Marca Personal",
-      "startDate": "2019-03-01",
-      "endDate": "2020-05-01",
-      "summary": "Asesoramiento Integral para creación de marca personal, creacion de logotipo, tipografia, etc. Creación de sitio web autoadministrable en Jumpseller.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
-  ],
+  {
+    "name": "Samcor SPA",
+    "position": "Encargado de Marketing y Desarrollo Web",
+    "url": "https://www.samcor.cl", 
+    "startDate": "2024-01-01",
+    "summary": "Responsable del área de Marketing Digital, campañas publicitarias, desarrollo y mantenimiento web, y coordinación de acciones comerciales online y offline.",
+    "highlights": [
+      "Optimización de campañas pagadas",
+      "Implementación de mejoras UX/UI en sitio web",
+      "Coordinación de estrategias con equipo comercial"
+    ]
+  },
+  {
+    "name": "Imporepuestos Spa",
+    "position": "Encargado de Marketing y Ventas Online, Web Developer (WordPress) (Colaborador)",
+    "url": "https://imporepuestos.cl",
+    "startDate": "2022-11-04",
+    "endDate": "2023-04-01",
+    "summary": "Lider Marketing Digital para impulsar ventas por canal online, Colaborador desarrollo web, encargado de la actualización del sitio web creando mejoras para facilitar la experiencia de usuario.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "Mujer Capacita (Instituto Iberoamericano)",
+    "position": "Encargado de Marketing Digital, Community Manager, Web Developer (WordPress)",
+    "url": "https://mujercapacita.cl/",
+    "startDate": "2020-01-04",
+    "endDate": "2021-12-30",
+    "summary": "Encargado de Marketing Digital y Administracion de Redes Sociales. Remodelación Web Completa, Creación de campañas ADS, Informes Analitica Web y Digital.",
+    "highlights": [
+      "Started the company"
+    ]
+  }
+],
   
   "education": [
   {
